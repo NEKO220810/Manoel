@@ -1,0 +1,48 @@
+body{
+  color: #e6ebf5;
+  background: #2696c9;
+}
+
+.cabecalho{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px;
+}
+
+.cabecalho{
+  background-color: #185673;
+}
+
+.assunto{
+  padding: 25px;
+}
+
+.minha_foto{
+  border-radius: 100%;
+  max-width: 200px;
+}
+
+.foto_insta{
+  border-radius: 100%;
+  max-width: 50px;
+}
+
+a{
+  color: antiquewhite
+}
+
+
+ .foto_Zap{
+    border-radius: 100%;
+  max-width: 50px;
+ }
+.foto_git{
+    border-radius: 100%;
+  max-width: 50px;
+ }
+.foto_tiktok{
+    border-radius: 100%;
+  max-width: 50px;
+ }
+
